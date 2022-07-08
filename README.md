@@ -5,7 +5,6 @@
 
 - 🤝 My favorites programming languages are **Python, Dart, JavaScript**
 
-- 📫 How to reach me **adson.matheus62@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
